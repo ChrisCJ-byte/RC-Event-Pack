@@ -4,7 +4,7 @@
   "packages": {
     "RCE Content Pack": {
       "description": "Content Pack for Re-Volt Community Event",
-      "version": "0.1",
+      "version": "0.2",
       "url":"https://www.dropbox.com/s/py4xbtm9r5ftape/packs_launcher.zip?dl=1",
       "file": "packs_launcher.zip"
     }
