@@ -1,10 +1,10 @@
 {
   "name": "Content Pack",
-  "version": "0.1",
+  "version": "0.0003",
   "packages": {
     "RCE Content Pack": {
       "description": "Content Pack for Re-Volt Community Event",
-      "version": "0.3",
+      "version": "0.0003",
       "url":"https://www.dropbox.com/s/eh0jok9pfcykzb1/packs_launcher.zip?dl=1",
       "file": "packs_launcher.zip"
     }
