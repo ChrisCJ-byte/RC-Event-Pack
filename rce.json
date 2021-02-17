@@ -1,6 +1,5 @@
-{
-   "name":"Content Pack",
-   "version":"0.0003",
+ "name":"Content Pack",
+   "version":"21.0217",
    "packages":{
       "RCE Content Pack":{
          "description":"Content Pack for Re-Volt Community Event",
@@ -15,10 +14,24 @@
             "hosts":{
                "Chris":"91.36.11.201"
             }
+         }
+      },
+      "Re-Volt Community Event":{
+         "title":"Re-Volt Community Event",
+         "date":"21-02-2021 18:30",
+         "hosts":{
+            "Chris":"91.36.11.201"
          },
          "Re-Volt Community Event":{
-            "title":"Re-Volt Community Event 2",
-            "date":"21-02-2021 18:30",
+            "title":"Re-Volt Community Event",
+            "date":"25-02-2021 18:30",
+            "hosts":{
+               "Chris":"91.36.11.201"
+            }
+         },
+         "Re-Volt Community Event":{
+            "title":"Re-Volt Community Event",
+            "date":"28-02-2021 18:30",
             "hosts":{
                "Chris":"91.36.11.201"
             }
