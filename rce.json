@@ -1,12 +1,28 @@
 {
-  "name": "Content Pack",
-  "version": "0.0003",
-  "packages": {
-    "RCE Content Pack": {
-      "description": "Content Pack for Re-Volt Community Event",
-      "version": "0.0003",
-      "url":"https://www.dropbox.com/s/eh0jok9pfcykzb1/packs_launcher.zip?dl=1",
-      "file": "packs_launcher.zip"
-    }
-  }
+   "name":"Content Pack",
+   "version":"0.0003",
+   "packages":{
+      "RCE Content Pack":{
+         "description":"Content Pack for Re-Volt Community Event",
+         "version":"0.0003",
+         "url":"https://www.dropbox.com/s/eh0jok9pfcykzb1/packs_launcher.zip?dl=1",
+         "file":"packs_launcher.zip"
+      },
+      "events":{
+         "Re-Volt Community Event":{
+            "title":"Re-Volt Community Event",
+            "date":"18-02-2021 18:00",
+            "hosts":{
+               "Chris":"91.36.11.201"
+            }
+         },
+         "Re-Volt Community Event":{
+            "title":"Re-Volt Community Event 2",
+            "date":"21-02-2021 18:30",
+            "hosts":{
+               "Chris":"91.36.11.201"
+            }
+         }
+      }
+   }
 }
