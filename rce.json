@@ -1,65 +1,37 @@
 {
    "name":"RCE Content Pack",
-   "version":"21.0306",
+   "version":"21.0314",
    "packages":{
       "RCE Content Pack":{
          "description":"Content Pack for Re-Volt Community Event",
-         "version":"21.0306",
-         "url":"https://www.dropbox.com/s/ckel844fuu48j8s/rce.zip?dl=1",
+         "version":"21.0314",
+         "https://www.dropbox.com/s/lwy5iyf3r3k5fwf/rce.zip?dl=1",
          "file":"rce.zip"
       }
    },
    "events":{
       "Re-Volt Community Event 1":{
          "title":"Re-Volt Community Event",
-         "date":"04-03-2021 18:30",
+         "date":"07-03-2021 18:30",
          "hosts":{
             "Chris":"91.36.11.201"
          }
       },
       "Re-Volt Community Event 2":{
          "title":"Re-Volt Community Event",
-         "date":"07-03-2021 18:30",
+         "date":"14-03-2021 18:30",
          "hosts":{
             "Chris":"91.36.11.201"
          }
       },
       "Re-Volt Community Event 3":{
          "title":"Re-Volt Community Event",
-         "date":"11-03-2021 18:30",
-         "hosts":{
-            "Chris":"91.36.11.201"
-         }
-      },
-      "Re-Volt Community Event 4":{
-         "title":"Re-Volt Community Event",
-         "date":"14-03-2021 18:30",
-         "hosts":{
-            "Chris":"91.36.11.201"
-         }
-      },
-      "Re-Volt Community Event 5":{
-         "title":"Re-Volt Community Event",
-         "date":"18-03-2021 18:30",
-         "hosts":{
-            "Chris":"91.36.11.201"
-         }
-      },
-      "Re-Volt Community Event 6":{
-         "title":"Re-Volt Community Event",
          "date":"21-03-2021 18:30",
          "hosts":{
             "Chris":"91.36.11.201"
          }
       },
-      "Re-Volt Community Event 7":{
-         "title":"Re-Volt Community Event",
-         "date":"25-03-2021 18:30",
-         "hosts":{
-            "Chris":"91.36.11.201"
-         }
-      },
-      "Re-Volt Community Event 8":{
+      "Re-Volt Community Event 4":{
          "title":"Re-Volt Community Event",
          "date":"28-03-2021 18:30",
          "hosts":{
