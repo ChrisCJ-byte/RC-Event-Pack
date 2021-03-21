@@ -9,3 +9,34 @@
          "file":"rce.zip"
       }
    },
+   "events":{
+      "Re-Volt Community Event 1":{
+         "title":"Re-Volt Community Event",
+         "date":"07-03-2021 18:30",
+         "hosts":{
+            "Chris":"91.36.11.201"
+         }
+      },
+      "Re-Volt Community Event 2":{
+         "title":"Re-Volt Community Event",
+         "date":"14-03-2021 18:30",
+         "hosts":{
+            "Chris":"91.36.11.201"
+         }
+      },
+      "Re-Volt Community Event 3":{
+         "title":"Re-Volt Community Event",
+         "date":"21-03-2021 18:30",
+         "hosts":{
+            "Chris":"91.36.11.201"
+         }
+      },
+      "Re-Volt Community Event 4":{
+         "title":"Re-Volt Community Event",
+         "date":"28-03-2021 18:30",
+         "hosts":{
+            "Chris":"91.36.11.201"
+         }
+      }
+   }
+}
