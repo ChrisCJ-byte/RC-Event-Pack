@@ -1,10 +1,10 @@
 {
    "name":"RCE Content Pack",
-   "version":"21.0321",
+   "version":"21.0327",
    "packages":{
       "RCE Content Pack":{
          "description":"Content Pack for Re-Volt Community Event",
-         "version":"21.0321",
+         "version":"21.0327",
          "url":"https://www.dropbox.com/s/50uu20p25p6oqp7/rce.zip?dl=1",
          "file":"rce.zip"
       }
