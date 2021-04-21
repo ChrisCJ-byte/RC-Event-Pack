@@ -4,7 +4,7 @@
    "packages":{
       "RCE Content Pack":{
          "description":"Content Pack for Re-Volt Community Event",
-         "version":"21.0417",
+         "version":"21.0420",
          "url":"https://www.dropbox.com/s/1cmauj4gt8m2maa/rce.zip?dl=1",
          "file":"rce.zip"
       }
