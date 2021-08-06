@@ -1,37 +1,37 @@
 {
    "name":"Re-Volt Plus Pack",
-   "version":"21.0625",
+   "version":"21.0806",
    "packages":{
-      "RCE Content Pack":{
-         "description":"Content Pack for Re-Volt Community Event",
-         "version":"21.0625",
-         "url":"https://www.dropbox.com/s/gcc50t413u6hcah/rce.zip?dl=1",
+      "Re-Volt Plus Pack":{
+         "description":"Re-Volt Plus Pack for everyone!",
+         "version":"21.0806",
+         "url":"https://www.dropbox.com/s/rxxfjglq0ynfpfh/rce.zip?dl=1",
          "file":"rce.zip"
       }
    },
    "events":{
-      "Re-Volt Community Event 1":{
+      "Re-Volt Plus Community Event 1":{
          "title":"Re-Volt Plus Race",
          "date":"16-05-2021 18:30",
          "hosts":{
             "Chris":"91.36.11.201"
          }
       },
-      "Re-Volt Community Event 2":{
+      "Re-Volt Plus Community Event 2":{
          "title":"Re-Volt Plus Race",
          "date":"23-05-2021 18:30",
          "hosts":{
             "Chris":"91.36.11.201"
          }
       },
-      "Re-Volt Community Event 3":{
+      "Re-Volt Plus Community Event 3":{
          "title":"Re-Volt Plus Race",
          "date":"30-05-2021 18:30",
          "hosts":{
             "Chris":"91.36.11.201"
          }
       },
-      "Re-Volt Community Event 4":{
+      "Re-Volt Plus Community Event 4":{
          "title":"Re-Volt Plus Race",
          "date":"06-06-2021 18:30",
          "hosts":{
