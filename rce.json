@@ -1,11 +1,11 @@
 {
    "name":"Re-Volt Plus Pack",
-   "version":"22.0706",
+   "version":"22.0806",
    "packages":{
       "Re-Volt Plus Pack":{
          "description":"Re-Volt Plus Pack for everyone!",
-         "version":"22.0706",
-         "url":"https://www.dropbox.com/s/aio3vbwcj0vrvwr/rce.zip?dl=1",
+         "version":"22.0806",
+         "url":"https://www.dropbox.com/s/3urevqk6674rw94/rce.zip?dl=1",
          "file":"rce.zip"
       }
    },
